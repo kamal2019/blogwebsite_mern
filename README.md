@@ -1,5 +1,5 @@
 # blogwebsite_mern
-![image](https://user-images.githubusercontent.com/47470542/152832055-fa32c8ba-bd7f-4101-9f7e-a78e0c8101bd.png)
-![image](https://user-images.githubusercontent.com/47470542/152832101-f866ca0c-6c34-4737-acc5-60bacc785e8a.png)
-![image](https://user-images.githubusercontent.com/47470542/152832198-3c42cf9c-04fc-41a6-9d34-cfe9faf88134.png)
-![image](https://user-images.githubusercontent.com/47470542/152832317-b10935fc-a3e0-4c4d-a773-40776d845555.png)
+![image](https://user-images.githubusercontent.com/47470542/153170372-cec3d46c-dd2d-4709-9ebd-6d7076ea325b.png)
+![image](https://user-images.githubusercontent.com/47470542/153170915-f899fd2a-42c5-4d9e-8db3-55c10691ee88.png)
+![image](https://user-images.githubusercontent.com/47470542/153170997-749847d3-e1a6-4099-a343-fbdbf651384f.png)
+![image](https://user-images.githubusercontent.com/47470542/153171061-3e1bdb2e-1448-4cff-9e6c-03f17545f622.png)
